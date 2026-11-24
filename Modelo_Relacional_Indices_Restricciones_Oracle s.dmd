@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Modelo_Relacional_Indices_Restricciones_Oracle" id="765FE280-11B7-7382-78F9-AB3F6A93846F" version="3.5">
+<createdBy>HP</createdBy>
+<createdTime>2026-11-22 07:04:19 UTC</createdTime>
+<ownerDesignName>Modelo_Relacional_HR_Oracle</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>765FE280-11B7-7382-78F9-AB3F6A93846F</designId>
+</OSDM_Design>
